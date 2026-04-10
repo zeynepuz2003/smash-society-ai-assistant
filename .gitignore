@@ -1,0 +1,11 @@
+# Mac Sistem Dosyaları
+.DS_Store
+
+# Yapay Zeka Model Çıktıları (GitHub 100MB sınırına takılmamak için)
+smash_society_final_model/
+smash_society_model_sonuclar/
+logs/
+__pycache__/
+
+# React ve Node Kütüphaneleri
+smash-society-web/node_modules/
